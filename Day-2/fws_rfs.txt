@@ -1,0 +1,1 @@
+Hello world! Iam in fws_rfs.txt
